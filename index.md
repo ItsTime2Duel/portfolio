@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kealan Frost
+title: This is the website title
 ---
 
 # Kealan Frost
