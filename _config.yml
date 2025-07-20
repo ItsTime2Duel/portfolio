@@ -1,5 +1,5 @@
 title: Kealan Frost Portfolio
 theme: minima
 collections:
-  projects:
+  _projects:
     output: true
