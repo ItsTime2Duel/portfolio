@@ -12,12 +12,14 @@ Welcome to my engineering portfolio. I'm an Electrical Engineering student passi
 
 ## Projects
 
-<div style="display: flex; flex-direction: column; gap: 1.Sem;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2em;">
 
 {% for project in site.projects %}
-  <div style="display: flex; align-items: center;">
-    <img src="{{ project.thumbnail }}" alt="{{ project.title }} thumbnail" width="100" style="margin-right: 15px;">
-    <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>
+  <div style="border: 1px solid #ccc; padding: 1em; border-radius: 10px; background: #f9f9f9;">
+    <img src="{{ project.thumbnail }}" alt="{{ project.title }} thumbnail" style="width: 100%; border-radius: 8px;">
+    <h3 style="margin-top: 0.8em;">{{ project.title }}</h3>
+    <p>{{ project.description }}</p>
+    <a href="{{ site.baseurl }}{{ project.url }}">Learn more</a>
   </div>
 {% endfor %}
 
