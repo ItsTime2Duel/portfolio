@@ -12,9 +12,16 @@ Welcome to my engineering portfolio. I'm an Electrical Engineering student passi
 
 ## Projects
 
+<div style="display: flex; flex-direction: column; gap: 1.Sem;">
+
 {% for project in site.projects %}
-- [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
+  <div style="display: flex; align-items: center;">
+    <img src="{{ project.thumbnail }}" alt="{{ project.title }} thumbnail" width="100" style="margin-right: 15px;">
+    <a href="{{ site.baseurl }}{{ project.url }}">{{ project.title }}</a>
+  </div>
 {% endfor %}
+
+</div>
 
 ## Contact Me
 📧 [name@domain.com](mailto:name@domain.com)  
