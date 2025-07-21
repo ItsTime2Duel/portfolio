@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Airband Antenna Build"
+title: Antenna_Project_File_Title
 ---
 
 ## Description
