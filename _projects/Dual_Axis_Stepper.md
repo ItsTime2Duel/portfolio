@@ -1,5 +1,5 @@
 ---
-title: "Stepper Motor Platform"
+title: Dual Axis Stepper Tracker
 date: 2025-07-18
 ---
 
