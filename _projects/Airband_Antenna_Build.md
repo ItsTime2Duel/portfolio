@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Airband Antenna Design and Characterization
-thumbnail: 
+thumbnail: assets/img/Airband_Antenna_Build/Deployed Antenna.jpg
 ---
 
 ## Description
