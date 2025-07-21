@@ -17,6 +17,6 @@ Welcome to my engineering portfolio. I'm an Electrical Engineering student passi
 {% endfor %}
 
 ## Contact
-📧[name@domain.com](mailto:name@domain.com)
-📞[123-456-7890](tel:+11234567890)
-🔗[LinkedIn](https://www.linkedin.com/in/kealanfrost/)
+📧[name@domain.com](mailto:name@domain.com)  
+📞[123-456-7890](tel:+11234567890)  
+🔗[LinkedIn](https://www.linkedin.com/in/kealanfrost/)  
