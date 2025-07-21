@@ -6,4 +6,5 @@ description: a full PCB assembly with a TI MSP430 microcontroller, ultrasonic di
 ---
 
 ## Description
+
 This project involved using a pick and place tool and metal stencils for SMD component soldering.
