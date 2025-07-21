@@ -13,5 +13,5 @@ Welcome to my engineering portfolio. I'm an Electrical Engineering student passi
 ## Projects
 
 {% for project in site.projects %}
-- [{{ project.title }}]({{ project.url }})
+- [{{ project.title }}]({{ site.baseurl }}{{ project.url }})
 {% endfor %}
