@@ -3,7 +3,7 @@ layout: default
 title: Airband Antenna Build
 ---
 
-![Antenna S11 Return Loss Sweep](assets/Airband_Antenna_Build/Dipole Airband Antenna 1-1000MHz sweep S11 return loss.png)
+![Antenna S11 Return Loss Sweep](/portfolio/assets/Airband_Antenna_Build/Dipole Airband Antenna 1-1000MHz sweep S11 return loss.png)
 
 ## Description
 
