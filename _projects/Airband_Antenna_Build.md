@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Airband Antenna Design and Characterization
-thumbnail: /assets/img/Airband_Antenna_Build/Deployed_Antenna.jpg
+thumbnail: assets/img/Airband_Antenna_Build/Deployed_Antenna.jpg
 description: a half-wavelength dipole antenna resonating at 124MHz in the commercial airband frequency range designed, built, and tested
 ---
 
