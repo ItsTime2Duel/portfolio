@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kealan Frost
+title: Home Page
 ---
 
 # Kealan Frost
