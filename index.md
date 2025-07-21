@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is the website title
+title: This_Is_The_Website_Title_In_The_Index_File
 ---
 
 # Kealan Frost
