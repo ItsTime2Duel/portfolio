@@ -1,6 +1,6 @@
 ---
-title: "Airband Antenna Build"
-date: 2025-07-20
+layout: default
+title: Airband Antenna Build
 ---
 
 ## Description
