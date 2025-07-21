@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Airband Antenna Design and Characterization
+thumbnail: 
 ---
 
 ## Description
